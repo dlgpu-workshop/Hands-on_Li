@@ -1,0 +1,81 @@
+<annotation>
+    <folder>data</folder>
+    <filename>929.tif</filename>
+    <path>C:\Users\SIU856532690\Documents\yolov5\Yolov5\env\yolov5\IL\data\929.tif</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>66</xmin>
+            <ymin>335</ymin>
+            <xmax>166</xmax>
+            <ymax>435</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>411</ymin>
+            <xmax>130</xmax>
+            <ymax>511</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>18</xmin>
+            <ymin>385</ymin>
+            <xmax>118</xmax>
+            <ymax>485</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>405</ymin>
+            <xmax>111</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>14</xmin>
+            <ymin>313</ymin>
+            <xmax>114</xmax>
+            <ymax>413</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>314</ymin>
+            <xmax>130</xmax>
+            <ymax>414</ymax>
+        </bndbox>
+    </object>
+</annotation>

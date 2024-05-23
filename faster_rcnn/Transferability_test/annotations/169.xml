@@ -1,0 +1,59 @@
+<annotation>
+    <folder>data</folder>
+    <filename>169.tif</filename>
+    <path>C:\Users\SIU856532690\Documents\yolov5\Yolov5\env\yolov5\IL\data\169.tif</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>569</xmin>
+            <ymin>395</ymin>
+            <xmax>669</xmax>
+            <ymax>495</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>454</xmin>
+            <ymin>494</ymin>
+            <xmax>554</xmax>
+            <ymax>594</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>564</xmin>
+            <ymin>584</ymin>
+            <xmax>664</xmax>
+            <ymax>684</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>743</xmin>
+            <ymin>705</ymin>
+            <xmax>800</xmax>
+            <ymax>800</ymax>
+        </bndbox>
+    </object>
+</annotation>

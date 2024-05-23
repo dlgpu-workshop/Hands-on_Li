@@ -1,0 +1,147 @@
+<annotation>
+    <folder>data</folder>
+    <filename>611.tif</filename>
+    <path>C:\Users\SIU856532690\Documents\yolov5\Yolov5\env\yolov5\IL\data\611.tif</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>493</xmin>
+            <ymin>0</ymin>
+            <xmax>593</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>110</xmin>
+            <ymin>130</ymin>
+            <xmax>210</xmax>
+            <ymax>230</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>140</xmin>
+            <ymin>216</ymin>
+            <xmax>240</xmax>
+            <ymax>316</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145</xmin>
+            <ymin>246</ymin>
+            <xmax>245</xmax>
+            <ymax>346</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>568</xmin>
+            <ymin>14</ymin>
+            <xmax>668</xmax>
+            <ymax>114</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>566</xmin>
+            <ymin>127</ymin>
+            <xmax>666</xmax>
+            <ymax>227</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>565</xmin>
+            <ymin>157</ymin>
+            <xmax>665</xmax>
+            <ymax>257</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>538</xmin>
+            <ymin>195</ymin>
+            <xmax>638</xmax>
+            <ymax>295</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>495</xmin>
+            <ymin>215</ymin>
+            <xmax>595</xmax>
+            <ymax>315</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>363</xmin>
+            <ymin>238</ymin>
+            <xmax>463</xmax>
+            <ymax>338</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>357</xmin>
+            <ymin>303</ymin>
+            <xmax>457</xmax>
+            <ymax>403</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>True</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>353</xmin>
+            <ymin>346</ymin>
+            <xmax>453</xmax>
+            <ymax>446</ymax>
+        </bndbox>
+    </object>
+</annotation>
